@@ -1,0 +1,23 @@
+
+p{font-family:fantasy;}
+.pepa{font-family:monospace;}
+.nobreclase{font-family:fantasy;font-weight:800;font-style:inpact;}
+h3{font-family:"Bangers";}
+.bangers-regular
+ {font-family: "Bangers", system-ui;
+  font-weight: 400;
+  font-style: normal;}
+  h2{font-family:"MonteCarlo";}
+.montecarlo-regular {font-family: "MonteCarlo", cursive;
+  font-weight: 400;
+  font-style: normal;}
+  .yuji-boku-regular {
+  font-family: "Yuji Boku", serif;
+  font-weight: 400;
+  font-style: normal;}
+  
+  img[alt="Geometry Dash"] {
+    margin: 20px;
+}
+
+
